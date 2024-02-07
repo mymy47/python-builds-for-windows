@@ -1,4 +1,4 @@
-# python-builds-for-windows
+# python3.12-builds-for-windows
 
 The wheels can be downloaded from the [Releases](https://github.com/mymy47/python-builds-for-windows/releases) page.
 
