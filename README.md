@@ -6,11 +6,15 @@ python-ldap 3.4.4
 
 xmlsec 1.3.13
 
+M2Crypto-0.38.0
+
+
 
 Install a wheel on the command line:
 
 
 pip install python_ldap-3.4.4-cp312-cp312-win_amd64.whl
 
-
 pip install xmlsec-1.3.13-cp312-cp312-win_amd64.whl
+
+pip install M2Crypto-0.38.0-cp312-cp312-win_amd64.whl
